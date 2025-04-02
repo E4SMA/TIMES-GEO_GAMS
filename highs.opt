@@ -1,0 +1,3 @@
+presolve = on
+solver = ipm
+run_crossover = on

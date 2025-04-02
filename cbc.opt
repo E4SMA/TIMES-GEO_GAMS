@@ -1,0 +1,3 @@
+presolve = on
+startalg = barrier
+crossover = on
